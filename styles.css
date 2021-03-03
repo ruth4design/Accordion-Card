@@ -14,6 +14,8 @@ body {
   margin: 0;
   padding-top: 150px;
   padding-bottom: 60px;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 .container {
   display: grid;
@@ -80,7 +82,6 @@ body {
   }
   .title {
     text-align: start;
-
   }
 }
 
