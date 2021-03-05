@@ -106,7 +106,7 @@ body {
   margin: 0;
   overflow: hidden;
   /* display: none; */
-  transition: height 2s ease;
+  transition: height 1s ease;
   box-sizing: border-box;
 }
 .acordion {
@@ -120,7 +120,7 @@ body {
   justify-self: end;
 }
 .acordion.active .answer {
-  height: fit-content;
+  height: 30px;
   /* display: block; */
   margin-bottom: 1.5rem;
 }
